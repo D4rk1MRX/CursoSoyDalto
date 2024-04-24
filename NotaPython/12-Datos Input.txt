@@ -1,0 +1,16 @@
+Datos de Entrada:
+
+Son Los datos que van poniendo los usuarios para poder llenar aquellos campos o variables para completar el comando
+
+Datos de entrada con letras:
+
+nombre = input("De su nombre: ")
+print (nombre)
+
+
+Datos de entrada con numeros:
+
+#Pedirle un numero al usuario
+numero = input ("dame n numero, capitan: ") <- aca se ingresa el dato
+resultado = int(numero) * 2 <-Aqui se convierte el tipo de datos str a int
+print (resultado) <- aca se imprime el resultado

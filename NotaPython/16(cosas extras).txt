@@ -1,0 +1,5 @@
+Filter: Es una funcion que me permite transformar todo lo que sea true en una funcion a una lista.
+
+numeros_pares = filter(es_par, numeros)
+
+Lambda: sirve para poder crear 

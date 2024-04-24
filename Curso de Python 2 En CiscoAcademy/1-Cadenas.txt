@@ -1,0 +1,16 @@
+Para poder hacer lo siguiente python: 
+Hola "Soy Darki"
+
+Es necesario antes de la primera comilla poner un slash invertido en donde debe tomar un color morado
+
+print("Hola, \"Soy Darki\"")
+
+luego antes de las dos comillas al terminar ponemos otro slash para cerrar ese ese texto.
+a esto se le denomina cadena de apostrofe.
+tambien existe otra forma de hacerlo sin los slash invertido y es de la forma:
+
+print('Hola "Soy Darki"')
+
+en lugar de poner doble comilla en las dos primeras comillas ponemos las simples asi cuando vayamos a crear una cadena
+apostrofe ponemos doble comillla para ser mas sensillo y facil.
+

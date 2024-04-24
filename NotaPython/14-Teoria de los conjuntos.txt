@@ -1,0 +1,7 @@
+Pues para entender un conjunto o la teoria debemos saber lo siguiente
+Imaginemos que tenemos un conjunto llamado conjunto A y este tiene los valores 2, 4, 5
+Pero tambien tenemos otro conjunto llamado conjunto B y este tiene los valores 2,4,5,6,7,8
+Para saber bien la teoria es primero como se leeria es decir si tenemos que el conjunto B tiene los 3 valores de A y mas, esto se leeria
+que el conjunto A es el Subconjunto de B
+Pero si lo vemos de otra forma que mencionamos que el A es el conjunto entonces esto seria
+Que el conjunto B es un superconjunto de A

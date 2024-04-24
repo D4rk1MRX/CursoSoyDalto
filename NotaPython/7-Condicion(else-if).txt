@@ -1,0 +1,12 @@
+elif: Es la funcion que es else-if donde podemos indexar una condicion if y si no se cumple que pase a la segunda condicion if o elif
+
+ingreso_mensual = 2000
+
+if ingreso_mensual > 10000: <- Condicion Inicial
+    print("estas bien en cualqueir parte del mundo") <-Accion Inicial
+
+elif ingreso_mensual > 1000: <-Condicion Segundaria
+    print("estas bien en latinoamerica") <- Accion Segundaria
+
+else: <- Condicion Falsa
+    print("sos pobre") <- Accion Falsa

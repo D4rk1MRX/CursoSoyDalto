@@ -1,0 +1,5 @@
+Digrafos:
+
+<<: Haciendo un cambio hacia la izquierda
+
+>>: Haciendo un cambio hacia la derecha 

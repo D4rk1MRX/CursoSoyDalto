@@ -1,0 +1,31 @@
+Variables
+
+Son contenedores que pueden variar su contenido es decir si A = 5 puede ser que en otro sea igual a 6, 7 etc etc.
+
+a = 5
+b = 8
+c = a+b
+
+nombre = "D4rk1"
+print (nombre)
+
+en la parte de nombre recordemos que es la variable y la estamos declarando si cambia a un color azul, la parte luego del signo del igual es donde definimos lo que lleva esa variable dentro
+
+numero = 10
+numero += 1
+
+En esta parte en signo del + antes del igual quiere decir que me sume el valor que tenia antes la variable con el qe esta despues del signo de igual que va despues del signo a esto se le puede llamar como concatenacion de suma.
+
+bienvenida = "Hola "
+nombre1 = "Lucas "
+nombre = bienvenida + nombre1 + "¿Como estas?"
+print (nombre)
+
+Esta es la parte de concatenar letras pues lo que hacemos es unir dos variables que llevan letras para formar una oracion.
+
+bienvenida = "Hola "
+nombre1 = 5
+nombre = f"{bienvenida} {nombre1} ¿Como estas?"
+print (nombre)
+
+Esta es la parte de concatenar numeros o letras con el formato Fstring que permite concatenar ya sean numeros interos, float y string. 

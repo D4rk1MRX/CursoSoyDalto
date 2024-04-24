@@ -1,0 +1,37 @@
+Datos Compuestos
+
+lista: es un tipo de datos compuestos que lleva otros tipos de datos dentro de este pueden ser simples o variables.
+
+lista = ["D4rk1", "Darkiron", "120"]
+print (lista[0])
+
+lo que es algunos lenguajes de programacion no se cuenta desde el 1 hasta el 10 seria desde el 0 es decir que si quieres llamar algo de lista debes empezar por el 0
+
+
+tuplas: Son otro tipo de datos compuestos pero estos llevan en lugar de corchetes parentesis
+
+tuplas = ("D4rk1", "Darkiron", True, 1.80)
+tuplas[1] = 10
+print (tuplas[1])
+
+Una diferencia entre la lista y la tupla es que las listas si se pueden modificar en otra parte del codigo mientras que la tupla no es algo que se pone desde el principio del codigo.
+
+Conjunto o Set: Este es otro dato compuesto como lista o tupla solo que este tira datos desordenados
+
+conjunto = {"D4rk1", "Darkiron", True, 1.80}
+
+print(conjunto)
+
+No se puede acceder al indice del conjuto siempre tiene que ser llamandolo normalmente y que te muestre datos desordenados, tampoco se repiten datos que se pongan en ello.
+
+Diccionario(Dict): Este es un tipo de datos en la cual podemos escribir datos como si fuera un diccionario es decir podemos hacer saltos, poner los valores que hay o que se seleccionan etc etc.
+
+diccionario = {
+    'nombre' : "Darkiron",
+    'canal' : "DarkironZ",
+    'Edad' : 10
+}
+
+print (diccionario['nombre'])
+
+g

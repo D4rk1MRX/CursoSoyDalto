@@ -1,0 +1,5 @@
+Key() -> devuelve las claves (tambien sirve para iterar)
+get() -> devuelve el valor de una clave
+clear() -> elimina todos los elementos
+pop() -> elimina un elemento
+items() -> para iterar el dict

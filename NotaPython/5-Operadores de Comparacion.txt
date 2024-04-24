@@ -1,0 +1,13 @@
+es_igual_que = 5 == 6 <- Esto es para poner si es igual a un valor
+
+es_distinto_de = 5 != 6 <- Esto es para poner si es distinto a un valor
+
+mayor_que = 5>6 <- Esto es para poner si es mayor que un valor
+
+menor_que = 5<6 <- Esto es para poner si es menor a un valor
+
+mayor_o_igual = 5>=6 <- Esto es para poner si es mayor o igual a un valor
+
+menor_o_igual = 5<=6 <-Esto es para poner si es menor o igual a un valor
+
+print()

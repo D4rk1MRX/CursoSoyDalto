@@ -1,0 +1,24 @@
+entrada = input("Dime algo")
+
+
+
+if entrada == "espatifilo":
+    print("No, ¡quiero un gran Espatifilo!")
+elif entrada == "pelargonio":
+    print("¡Espatifilo!, ¡No pelargonio!")
+elif entrada == "Espatifilo":
+    print("Si, ¡El Espatifilo! es la mejor planta de todos los tiempos!")
+else:
+    print("No hablas de mi planta favorita :(")
+
+
+entrada = input("Dime algo\n")
+
+if entrada == "espatifilo":
+    print("No, ¡quiero un gran Espatifilo!")
+elif entrada == "pelargonio":
+    print("¡Espatifilo!, ¡No pelargonio!")
+elif entrada == "Espatifilo":
+    print("Si, ¡El Espatifilo! es la mejor planta de todos los tiempos!")
+else:
+    print("No hablas de mi planta favorita :(")

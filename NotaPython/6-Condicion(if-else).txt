@@ -1,0 +1,9 @@
+edad = 17
+
+IF: Es una condicion que se refiere que si algo se cumple que haga una accion. 
+Else: Esta es una parte de la condicion que ejecutara la parte falsa si no se cumple la primera condicion.
+if edad >= 18 : <- Condicion
+    print ("Podes pasar") <-Accion
+else: <- Condicion Falsa
+    print ("No podes pasar") <-Accion de la condicion falsa
+

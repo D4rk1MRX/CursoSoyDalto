@@ -1,0 +1,25 @@
+Tipos de datos:
+
+"string", 'string': Cadenas de texto simples pues con esta no se puede saltar de linea esa es su desventana
+
+ejemplo: "Hola Mundo", 'Hola Mundo'
+
+desventaja: "Hola Mundo
+como esta" : Esto no se puede o se marcara error lo mismo con la comilla normal.
+
+"""string""", '''string''': Cadena de texto mas compleja con esta si podemos hacer un salto de linea totalmente 
+
+Ejemplo: """Hola Mundo""", '''Hola Mundo'''
+
+Con este si se puede hacer saltos de linea osea: 
+
+"""Hola Mundo
+Como estan?
+Bien?"""
+
+
+Int: Estos son numeros enteros es decir numeros tales como 40, 50, 1, 2 etc etc.
+
+Float: Este es un numero flotante donde el numero que pongas debe ser igual a 4.2 o numeros no enteros
+
+Booleano: Este es un tipo de datos de falso y verdadero (True O False).
